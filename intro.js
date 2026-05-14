@@ -1,6 +1,6 @@
 const name = 'Nicholas';
-let age = 20;
-let programmingLanguage = 'javascript';
+const age = 20;
+const programmingLanguage = 'javascript';
 
 console.log(`Name: ${name}`);
 console.log(`Age: ${age}`);
